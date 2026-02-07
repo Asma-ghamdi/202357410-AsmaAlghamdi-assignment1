@@ -35,4 +35,5 @@ It also includes a small JavaScript feature that displays a greeting based on th
 ## AI Usage Summary
 AI tools were used to help understand the assignment requirements, organize the project structure, and assist with writing basic HTML, CSS, and JavaScript code. All suggestions were reviewed, modified, and implemented manually.
 
-Detailed information about AI usage can be found in 'ai-usage-report.md'.
+Detailed information about AI usage can be found in the [AI Usage Report](docs/ai-usage-report.md).
+
