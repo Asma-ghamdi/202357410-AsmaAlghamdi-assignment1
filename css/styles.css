@@ -40,3 +40,22 @@ header {
         width: 95%;
     }
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+input, textarea, button {
+  font: inherit;  /* Use the same font as the rest of the page */
+  padding: 10px;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
