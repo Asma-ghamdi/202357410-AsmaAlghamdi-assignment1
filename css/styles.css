@@ -1,3 +1,4 @@
+/* Apply basic styling to the entire page */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Style the header section */
 header {
     background-color: #333;
     color: #fff;
@@ -12,6 +14,8 @@ header {
     text-align: center;
 }
 
+
+/* Main container that holds all sections */
 .container {
     width: 80%;
     margin: 20px auto;
@@ -24,10 +28,13 @@ header {
     gap: 20px;
 }
 
+
+/* Add spacing between individual sections */
 .container div {
     margin-bottom: 20px;
 }
 
+/* Make the layout responsive on smaller screens */
 @media (max-width: 768px) {
     .container {
         width: 95%;
